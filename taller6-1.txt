@@ -6,7 +6,7 @@ namespace IfStatement
   {
     static void Main(string[] args)
     {
-      int socks = 3;
+      int socks = 6;
       if (socks <= 3){
         Console.WriteLine("Time to do laundry!");
 
